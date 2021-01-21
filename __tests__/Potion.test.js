@@ -1,4 +1,3 @@
-const { test, expect } = require('@jest/globals');
 const Potion = require('../lib/Potion.js');
 
 test('creates a health potion object', () => {
